@@ -10,10 +10,9 @@
  FPGA - field programable gate array 
 
  # HARDWARE 
- MOBLIE 
- LAPTOP 
- DESKTOP 
- SERVER
+ CPU
+ MEMORY (RAM)
+ NETWORK
 
  # STORAGE 
  SSD - solid state drive 
@@ -21,6 +20,7 @@
  NVME - nonvolatile memory express 
 
  #FULLSTACKS
+ Full stack development refers to the end-to-end application software development, including the front end and back end.
  
    
     
