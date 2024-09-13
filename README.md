@@ -19,14 +19,43 @@
  HDD - hard disk drive                                          
  NVME - nonvolatile memory express 
 
- # OPERATING SYSTEM 
- ANDROID,IOS,WINDOWS,LINUS,MACOS
+![images](https://github.com/user-attachments/assets/dcb7aff3-e0ae-4ff2-bc66-915fd99fd857)
+
+![photo_6237620436531789179_y](https://github.com/user-attachments/assets/dc857130-2353-4c16-8af0-4a2207d2f5ba)
+
+ 
+
+ # OPERATING SYSTEMS
+ 
+The **OS (Operating System)** manages hardware and software resources, creating a bridge between the two. Components include:
+- **Kernel**: The core part of the OS that manages system resources.
+- **OS Layer**: Abstracts hardware resources for higher-level software.
+- **Applications**: Programs that run on top of the OS.
+- **CISC & RISC**: Two primary CPU instruction set architectures.
+- **Virtual Machine**: An emulation of a computer system.
 
  # OSI LAYERS
- There are 7 layers in osi 
+ There are 7 layers in osi                                                                                                   
+ ![download](https://github.com/user-attachments/assets/483709b1-a4ee-4aa1-9203-d6cb40de4b19)
+![4087ff65-f7a5-498d-8dae-89608d6a02d3](https://github.com/user-attachments/assets/0c338f22-55ab-414c-88df-b5b09aa4f542)
 
  # NETWORK 
- 
+ There are 2 types of network -                      
+ 1. INTERNET (WAN - wide area network) - public network
+ 2. INTRANET (LAN - local area network) - private network
+
+# NETWORKING 
+Networking connects devices and system allowing them to communicate and share data.                    
+KEY COMPONENTS -                  
+!. NIC (Networking Interface Card )            
+2. ETHERNET CONNECTION                
+2. ROUTER/HUBS/SWITCHES/MODEMS                            
+3. TCP/UDP protocols for data transfer            
+4. DNS (Domain Name System ) 
+5. IP (Internet Protocol)
+5. ISP (Internet Service Provider)
+6. VPN (Virtual Service Provider)
+
 
  # FULLSTACKS                                                     
  Full stack development refers to the end-to-end application software development, including the front end and back end.
