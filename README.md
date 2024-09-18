@@ -51,10 +51,10 @@ KEY COMPONENTS -
 2. ETHERNET CONNECTION                
 2. ROUTER/HUBS/SWITCHES/MODEMS                            
 3. TCP/UDP protocols for data transfer            
-4. DNS (Domain Name System ) 
-5. IP (Internet Protocol)
-5. ISP (Internet Service Provider)
-6. VPN (Virtual Service Provider)
+4. DNS (Domain Name System )              
+5. IP (Internet Protocol)              
+6. ISP (Internet Service Provider)             
+7. VPN (Virtual Service Provider)             
 
 
  # FULLSTACKS                                                     
